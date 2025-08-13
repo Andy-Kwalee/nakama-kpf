@@ -1,4 +1,4 @@
-go mod init github.com/Andy-Kwalee/nakama-kpf
+module github.com/Andy-Kwalee/nakama-kpf
 
 go 1.23.5
 
