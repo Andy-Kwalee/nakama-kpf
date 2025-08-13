@@ -1,4 +1,3 @@
-# Inside your new repo directory on your local machine
 go mod init github.com/Andy-Kwalee/nakama-kpf
 
 go 1.23.5

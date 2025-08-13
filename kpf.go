@@ -1,4 +1,3 @@
-// In kpf.go
 package kpf
 
 import "fmt"
