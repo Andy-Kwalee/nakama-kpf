@@ -8,7 +8,7 @@
 // or reproduction of this material is strictly forbidden unless prior written permission is
 // obtained from Kwalee Limited.
 
-package main
+package kpf
 
 import (
 	"context"
